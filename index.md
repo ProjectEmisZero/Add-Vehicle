@@ -1,6 +1,6 @@
 ## Add Vehicle:
 
-[Manual Data Entry](https://projectemiszero.github.io/User-Info/)
+[Manual Data Entry](https://projectemiszero.github.io/Manual-Entry/)
 
 [Automatic Data Entry](https://projectemiszero.github.io/Automatic-Car-Entry/)
 
